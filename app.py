@@ -257,8 +257,7 @@ with predict_col2:
                 # Clear progress bar
                 progress_bar.empty()
                 
-                # Display result with animation
-                st.balloons()
+              
                 
                 # Price display
                 st.markdown(f"""
@@ -355,4 +354,5 @@ st.markdown("""
     <p>🤖 Powered by Advanced Machine Learning | 📊 Based on Real Market Data</p>
     <p>⚠️ Estimates are for guidance only. Actual prices may vary based on condition, location, and market factors.</p>
 </div>
+
 """, unsafe_allow_html=True)
