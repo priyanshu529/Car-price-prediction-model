@@ -7,7 +7,7 @@ Data-driven Insights: Highlights key features affecting the car price.
 
 Simple Web Interface: Built with Streamlit for interactive use.
 
-Technology Stack
+#Technology Stack
 
 Python
 
@@ -17,7 +17,7 @@ Scikit-learn for Linear Regression
 
 Streamlit for web deployment
 
-How to Use
+#How to Use
 
 Clone the repository.
 
